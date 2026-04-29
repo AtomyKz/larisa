@@ -7,7 +7,7 @@ const SITE_CONFIG = {
     // Ранг в Atomy
     rank: 'Sales Semi-Master',
     // Номер WhatsApp (формат: 7XXXXXXXXXX, без +). null — если номера нет
-    whatsapp: null,
+    whatsapp: '77083005743',
     // URL Google Apps Script для отправки форм
     googleScriptUrl: 'https://script.google.com/macros/s/AKfycbwPh0FpstsYJEtH0tFFs1ufrpRFJsYEE0rX98MGEnv0poKOCTqUxiuQ_5N8T0WEfO9k/exec'
 };
